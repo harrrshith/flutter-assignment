@@ -386,7 +386,7 @@ class _CandleChartState extends State<CandleChart> {
             left: 5,
             top: 5,
             child: Text(
-              'RSI(${widget.rsiPeriod})',
+              'RSI',
               style: TextStyle(
                 color: widget.rsiLineColor,
                 fontSize: widget.axisTextSize,
